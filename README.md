@@ -26,5 +26,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Shishir3D&show_icons=true&theme=tokyonight)](https://github.com/Shishir3D)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shishir3d&show_icons=true&locale=en&layout=compact" alt="shishir3d" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shishir3D&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/Shishir3D)
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Shishir3D&show_icons=true&theme=tokyonight&hide=css,lua,html
+)](https://github.com/Shishir3D)
 
