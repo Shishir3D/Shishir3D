@@ -1,4 +1,4 @@
-![logo](https://github.com/Shishir3D/Shishir3D/blob/main/Banner.gif)
+![logo](https://github.com/Shishir3D/Shishir3D/blob/main/frog.gif)
 <h1 align="center">Hi 👋, I'm Shishir Poudel</h1>
 <h3 align="center">A 18 year old undergrad student</h3>
 
