@@ -26,5 +26,5 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Shishir3D&show_icons=true&theme=tokyonight)](https://github.com/Shishir3D)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shishir3d&show_icons=true&locale=en" alt="shishir3d" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shishir3d&show_icons=true&locale=en&layout=compact" alt="shishir3d" /></p>
 
