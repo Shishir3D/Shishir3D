@@ -15,11 +15,10 @@
 <p align="left">
 <a href="https://twitter.com/shishir3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shishir3d" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shishir3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shishir3d" height="30" width="40" /></a>
-<a href="https://instagram.com/shishir3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shishir3d" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/2dsaag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="2dsaag" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@2dsaag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="2dsaag" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shishir3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shishir3d" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shishir3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shishir3d" height="30" width="40" /></a>
-<a href="https://discord.gg/shishir3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="shishir3d" height="30" width="40" /></a>
+<a href="https://discord.gg/jzcz5HxPkR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="shishir3d" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
