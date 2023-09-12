@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Shishir Poudel</h1>
 <h3 align="center">An 18 year old undergrad student</h3>
 
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/wuariwEtBXUAAAAC/tiny-green-frog-teeny-tiny-green-frog.giff">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shishir3d&label=Profile%20views&color=0e75b6&style=flat" alt="shishir3d" /> </p>
 
 
