@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **shishir.college@gmai.com**
+- 📫 How to reach me **shishir3d@gmai.com**
 
-- ⚡ Fun fact **I can't swim**
+- ⚡ Fun fact **I can do a handstand**
 
 
 <h3 align="left">Connect with me:</h3>
