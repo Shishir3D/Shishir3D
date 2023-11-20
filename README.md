@@ -7,9 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shishir3d&label=Profile%20views&color=0e75b6&style=flat" alt="shishir3d" /> </p>
 
 
-- 💬 Ask me about **anything**
-
-- 📫 How to reach me **shishir3d@gmai.com**
+- 📫 How to reach me **shishirpoudel2061@gmail.com**
 
 - ⚡ Fun fact **I can do a handstand**
 
