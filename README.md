@@ -1,6 +1,6 @@
 ![logo](https://github.com/Shishir3D/Shishir3D/blob/main/frog.gif)
 <h1 align="center">Hi 👋, I'm Shishir Poudel</h1>
-<h3 align="center">An 19 year old undergrad student</h3>
+<h3 align="center">A 19 year old undergrad student</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/wuariwEtBXUAAAAC/tiny-green-frog-teeny-tiny-green-frog.giff">
 
